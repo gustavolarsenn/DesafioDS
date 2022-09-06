@@ -7,7 +7,3 @@ Considerando o arquivo excel enviado como sua base de dados, crie um script util
 3) Qual a custodia media?
 
 4) Qual a media de idade de todos os clientes?
-
-Boa sorte!
-
-Obs.: Não esqueça de enviar os scripts para avaliarmos as respostas.
